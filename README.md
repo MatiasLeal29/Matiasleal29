@@ -18,7 +18,6 @@ Cientista Político orientado a tecnología. Me muevo entre **frontend (React, C
 
 ## ⚙️ Tech
 
-<!-- Badges de tecnologías (imágenes estáticas que sí se renderizan) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000&labelColor=F7DF1E&style=flat)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000&labelColor=61DAFB&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=fff&labelColor=1572B6&style=flat)
@@ -34,25 +33,30 @@ Cientista Político orientado a tecnología. Me muevo entre **frontend (React, C
 
 ## 🚀 Proyectos Destacados
 
-- **Medula — Ficha clínica digital**  
-  Front: React/Vue + Vite · Back: Node.js (Express) · DB: MongoDB (Mongoose) · Auth: JWT  
-  _Rol:_ contribuciones en componentes y flujos de datos.  
-  👉 Repo: `Medula-Chile/Medula`
+- **Medula — Ficha Clínica Digital (Proyecto real)**  
+  Frontend: React/Vue + Vite · Backend: Node.js (Express) · MongoDB (Mongoose) · JWT Auth.  
+  Participación en componentes, flujos de datos y estructuración de la interfaz.  
+  👉 Repo (Organización): `Medula-Chile/Medula`
 
-- **Directorio Salud (Generation, 2025)**  
-  App full-stack para búsqueda/consulta de centros de salud (privados, hospitales, CESFAM).  
-  Front: React + CSS + JSX · Back: Node/Express + MongoDB · Jira + Scrum.  
-  👉 Repo: `MatiasLeal29/directorio-salud` _(subir código y reemplazar este nombre)_
+- **Comparativo de Candidatos — Elecciones 2025**  
+  Web + Node.js · HTML · CSS (Bootstrap) · JS · DataTables.  
+  Cuadro comparativo de propuestas presidenciales con filtros, búsqueda y paginación.  
+  👉 https://github.com/MatiasLeal29/comparativo-js
 
-- **API CRUD básica (Node + MongoDB)**  
-  Endpoints REST, validaciones y paginación.  
-  👉 Repo: `MatiasLeal29/api-crud-mongo` _(crear/subir)_
+- **Dashboard Electoral 2ª Vuelta — 2025**  
+  Frontend: React + TypeScript + Vite.  
+  Visualización clara y accesible de los candidatos en segunda vuelta.  
+  👉 https://github.com/MatiasLeal29/comparativo-2VR
+
+- **Scraper Legislativo** — Seguimiento automatizado de Proyectos de Ley  
+  Scripts/Backend: Node.js.  
+  Herramienta para extraer, estructurar y monitorear información legislativa desde fuentes oficiales.  
+  👉 https://github.com/MatiasLeal29/scraper-legislativo
 
 ---
 
 ## 📊 Stats
 
-<!-- Tarjetas de stats (imágenes dinámicas soportadas en README) -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=MatiasLeal29&show_icons=true&hide_title=true" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasLeal29&layout=compact" height="140" />
@@ -62,3 +66,4 @@ Cientista Político orientado a tecnología. Me muevo entre **frontend (React, C
 
 ## 🤝 Contacto
 - Email: <a href="mailto:mlealjaque@gmail.com">mlealjaque@gmail.com</a>
+
